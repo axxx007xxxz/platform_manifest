@@ -11,6 +11,8 @@
   <!-- Vendors -->
   <project path="vendor/motorola" name="axxx007xxxz/proprietary_vendor_motorola" remote="XOSPD" />
 
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="XOSPD" />
+
   <!-- Extra Dependencies for OnePlus3 -->
   <project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" remote="XOSPD"/> 
   <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" remote="XOSPD"/> 
